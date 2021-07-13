@@ -1,0 +1,9 @@
+ofxOpenCv
+ofxCv
+ofxFFTouch
+ofxGui
+ofxKinect
+ofxOsc
+ofxTskokmtMath
+ofxTskokmtTool
+ofxXmlSettings
